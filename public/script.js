@@ -132,3 +132,4 @@ if (window.location.pathname.endsWith('quiz.html')) {
 } else if (window.location.pathname.endsWith('results.html')) {
     loadResults();
 }
+
